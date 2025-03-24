@@ -27,7 +27,7 @@ header {
     flex: 1 1 100vw;
     height: 936px;
     text-align: center;
-    background-image: url("/img/gwcosi6f6i571.png");
+    background-image: url("../img/gwcosi6f6i571.png");
     margin: 0;
 }
 
@@ -78,7 +78,7 @@ main {
     width: 100vw;
     height: 1200px;
     margin: 0;
-    background-image: url("/img/windows-11-dark-mode-abstract-background-black-background-3840x2400-8710.jpg");
+    background-image: url("../img/windows-11-dark-mode-abstract-background-black-background-3840x2400-8710.jpg");
 }
 
 aside {
